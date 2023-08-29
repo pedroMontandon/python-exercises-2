@@ -6,7 +6,7 @@ chapolin = ['Eu, O Chapolin Colorado']
 stallone = ['Coma peixe, peixe é bom',
             'Você é a doença, eu sou a cura',
             'Quando eu viro meu boné',
-            'Aaaadriaan',
+            'Aaadriaan',
             'Ei, tira!',
             'Você veio de tão longe, para ver campos vazios'
             ]
